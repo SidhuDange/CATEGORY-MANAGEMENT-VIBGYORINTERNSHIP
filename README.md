@@ -1,3 +1,4 @@
 <img src='https://github.com/SidhuDange/CATEGORY-MANAGEMENT-VIBGYORINTERNSHIP/blob/1b1edad879088443f6af606bfd0d340709bdcd92/frontend/src/assets/Screenshot_12-4-2025_43746_localhost.jpeg'/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g4kQ3ELo49Y?si=zwxFyoQrcBxDo7kX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[🎥 Watch Demo Video](https://github.com/SidhuDange/CATEGORY-MANAGEMENT-VIBGYORINTERNSHIP/blob/8cd8e1b0edbc159f602d188c845e0ea70c792473/frontend/src/assets/Category%20Management%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%202025-04-12%2004-49-43.mp4)
+
