@@ -1,0 +1,59 @@
+.app{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer{
+  margin-top: auto;
+}
+
+
+
+
+
+.app {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 250px;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .filter {
+    margin-bottom: 20px;
+  }
+  
+  .filter select, .filter input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  .product-list {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .product-item {
+    margin-bottom: 20px;
+  }
+ 
+  
+  .form{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 10%;
+  }
+  
+  .in-form{
+    background-color: #f5f5f5;
+    width: 400px;
+    padding: 1rem;
+    border-radius: 10px;
+  }
